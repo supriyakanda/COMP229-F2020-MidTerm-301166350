@@ -1,6 +1,6 @@
 {
-  "name": "comp229-f2020-midterm-301166350",
-  "version": "0.0.2",
+  "name": "comp229-f2020-midterm",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "start": "node server.js"
